@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlaceInfoApp</string>
+    <string name="SignUpButton">Sign Up</string>
+    <string name="Text_Already_Account">Already have an account? Sign in here</string>
+    <string name="SignIn">Sign In</string>
+    <string name="NotRegistered">Not registered. Sign up here</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Logout">Logout</string>
+    <string name="Maps">Maps</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
